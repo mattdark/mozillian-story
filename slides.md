@@ -47,7 +47,7 @@
 ***
 
 ![](img/redpanda.JPG)
-#### Source: Wikipedia
+#### Source: [Wikipedia](https://en.wikipedia.org/wiki/Red_panda)
 
 ---
 
