@@ -159,6 +159,6 @@
 
 [@mariogmd](https://twitter.com/mariogmd)
 
-[iscmariog](https://fb.com/iscmariog)
+[fb.com/iscmariog](https://fb.com/iscmariog)
 
 mattdark@mozilla-mexico.org
