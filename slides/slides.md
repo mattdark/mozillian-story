@@ -22,7 +22,7 @@
 
 ----
 
-![](img/summit.jpg)
+![](assets/img/summit.jpg)
 #### Mozilla Summit 2013
 
 ---
@@ -46,7 +46,7 @@
 
 ----
 
-![](img/redpanda.JPG)
+![](assets/img/redpanda.JPG)
 #### Source: Wikipedia
 
 ---
@@ -68,7 +68,7 @@
 
 ----
 
-![](img/pechakucha.jpg)
+![](assets/img/pechakucha.jpg)
 #### Pechakucha ICDemocracia
 
 ----
@@ -77,7 +77,7 @@
 
 ----
 
-![](img/firefox.jpg)
+![](assets/img/firefox.jpg)
 #### Firefox
 
 ----
@@ -86,13 +86,13 @@
 
 ----
 
-![](img/launch-team.jpg)
+![](assets/img/launch-team.jpg)
 #### Firefox OS
 
 ----
 
 ### Rust
-![](img/rust.png)
+![](assets/img/rust.png)
 
 ----
 
@@ -113,12 +113,12 @@
 
 ----
 
-![](img/mitchell.jpg)
+![](assets/img/mitchell.jpg)
 #### Mitchell Baker
 
 ----
 
-![](img/django.jpg)
+![](assets/img/django.jpg)
 #### Jacob Kaplan-Moss
 
 ----
@@ -127,22 +127,22 @@
 
 ----
 
-![](img/cartagena.JPG)
+![](assets/img/cartagena.JPG)
 #### Cartagena, Colombia
 
 ----
 
-![](img/toronto.jpg)
+![](assets/img/toronto.jpg)
 #### Toronto, Canada
 
 ----
 
-![](img/madrid.jpg)
+![](assets/img/madrid.jpg)
 #### Madrid, Spain
 
 ----
 
-![](img/bogota.jpg)
+![](assets/img/bogota.jpg)
 #### Bogotá, Colombia
 
 ---
@@ -151,7 +151,7 @@
 
 ----
 
-![](img/message.jpg)
+![](assets/img/message.jpg)
 #### Sleep well tonight knowing that we're making the Internet a better place
 
 ---
